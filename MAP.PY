@@ -94,5 +94,5 @@ layer4.add_to(m)
 folium.LayerControl().add_to(m)
 
 # 7. Save
-m.save("dual_layer_map.html")
-print("Map with 4 layers saved as 'dual_layer_map.html'")
+m.save("layer_map.html")
+print("Map with 4 layers saved as 'layer_map.html'")
